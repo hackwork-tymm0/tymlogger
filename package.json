@@ -1,0 +1,25 @@
+{
+  "name": "tymlogger",
+  "version": "1.0.0",
+  "description": "A simple logger",
+  "main": "logger.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hackwork-tymm0/tymlogger.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "console"
+  ],
+  "author": "tymm0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackwork-tymm0/tymlogger/issues"
+  },
+  "homepage": "https://github.com/hackwork-tymm0/tymlogger#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "time-stamp": "^2.0.0"
+  }
+}
